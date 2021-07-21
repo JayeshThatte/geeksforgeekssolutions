@@ -1,3 +1,4 @@
+# Question by : Rajput-Ji : https://auth.geeksforgeeks.org/user/Rajput-Ji/
 """
 Given an array arr[] and size of array is n and one another key x, and give you a segment size k. The task is to find that the key x present in every segment of size k in arr[].
 Examples: 
