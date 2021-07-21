@@ -5,4 +5,4 @@ My answers to the questions posted on www.geeksforgeeks.org
 
  Type | Location
 -------|---------
-Array | [Arrays](./Arrays)
+Array | [Arrays](./Arrays/README.md)
